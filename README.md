@@ -1,2 +1,2 @@
 # Politico
-Electoral program 
+The electroral program
